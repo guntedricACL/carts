@@ -21,7 +21,7 @@ spec:
         - name: DT_TAGS
           value: "product=sockshop Owner=mauro"
         - name: DT_CUSTOM_PROP
-          value: "SERVICE_TYPE=BACKEND Owner=Mauro"
+          value: "SERVICE_TYPE=BACKEND Owner=mauro"
         resources:
           limits:
             cpu: 500m
